@@ -2,6 +2,9 @@
 Learning OpenMP programming in C to parallelize a program.
 
 For compilation use
-gcc -fopenmp <file_name>.c 
+
+_gcc -fopenmp <file_name>.c_
+
 Finally, for execution use
-./a.out
+
+_./a.out_
