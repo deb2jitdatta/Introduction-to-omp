@@ -23,7 +23,7 @@ int main()
 	printf("Sum of are\n");
 	
 	for(i=0;i<num;i++)
-		printf(“%d ”,&c[i]);
+		printf("%d ",&c[i]);
 
 	return 0;
 }
